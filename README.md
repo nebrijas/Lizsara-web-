@@ -3,13 +3,13 @@
 A continuación podrán encontrar el desglose de las diversas actividades ejecutadas en el desarrollo del curso de Periodismo de Datos II: Herramientas Digitales
 para la visualizacipin y presentación de datos:
 
-•	[Actividad dirigida 1](ad1.md)
++	[Actividad dirigida 1](ad1.md)
 
-•	[Actividad dirigida 2](ad2.md)
++ [Actividad dirigida 2](ad2.md)
 
-•	[Actividad dirigida 3](ad3.md)
++	[Actividad dirigida 3](ad3.md)
 
-•	[Actividad dirigida 4](ad4.md)
++	[Actividad dirigida 4](ad4.md)
 
 ## Desarrollo del curso 
 
