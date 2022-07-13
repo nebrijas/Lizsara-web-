@@ -3,13 +3,13 @@
 A continuación podrán encontrar el desglose de las diversas actividades ejecutadas en el desarrollo del curso de Periodismo de Datos II: Herramientas Digitales
 para la visualizacipin y presentación de datos:
 
-•	[Actividad dirigida 1](https://github.com/nebrijas/Lizsara-web-/blob/main/ad1.md)
+•	[Actividad dirigida 1](ad1.md)
 
-•	[Actividad dirigida 2](https://github.com/nebrijas/Lizsara-web-/blob/main/ad2.md)
+•	[Actividad dirigida 2](ad2.md)
 
-•	[Actividad dirigida 3](https://github.com/nebrijas/Lizsara-web-/blob/main/ad3.md)
+•	[Actividad dirigida 3](ad3.md)
 
-•	[Actividad dirigida 4](https://github.com/nebrijas/Lizsara-web-/blob/main/api-covid-pandas.ipynb)
+•	[Actividad dirigida 4](ad4.md)
 
 ## Desarrollo del curso 
 
